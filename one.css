@@ -1,0 +1,179 @@
+.bg{
+	background-color:;
+}
+.nav{
+	height:40px;
+	width:100%;
+	background-color:white;
+	position:fixed;
+	top:0;
+	left:0;
+}
+.icon{
+	height:30px;
+	padding:4px;
+
+}
+.img_icon{
+	height:30px;
+	position:fixed;
+	left:20%;
+}
+.icon_logo h1{
+	font-weight:bolder;
+	margin-top:5px;
+	position:fixed;
+	top:0;
+	left:30%;
+}
+.nav_itom ul li{
+	font-weight:bolder;
+	display: inline;
+	margin-top:-20px;
+	margin-left:15px;
+
+}
+.nav_itom span{
+	display:inline;
+	margin-top:-400;
+}
+.list_nav{
+	display:inline;
+	margin-left:10px;
+	position:fixed;
+	top:0;
+	left:45%;
+}
+.img_list{
+	height:20px;
+	width:20px;
+	position:fixed;
+	top:9;
+	left:;
+
+}
+.info{
+	height:auto;
+	width:100%;
+	margin-top:-70px;
+	background-color:#e1e6e2;
+
+}
+.info1{
+	height:500px;
+	width:420px;
+	margin-left:25%;
+	margin-top:40px;
+}
+.info1 h1{
+	color:red;
+}
+.info1 p{
+	text-align:justify;
+
+}
+.info1 input{
+	color:white;
+	font-weight: bolder;
+	font-size:30px;
+	background-color:red;
+	border:none;
+	border-radius:3px;
+}
+.dot1{
+	height:10px;
+	width:10px;
+	border-radius:5px;
+	background-color:red;
+	margin-top:20px;
+}
+.dot2{
+ 	 height:10px;
+	width:10px;
+	border-radius:5px;
+	background-color:white;
+	margin-top:-10px;
+	margin-left:3%;
+}
+.dot3{
+	height:10px;
+	width:10px;
+	border-radius:5px;
+	background-color:white;
+	margin-top:-10px;
+    margin-left:6%;
+}
+.info2{
+	height:500px;
+	width:500px;
+	margin-top:-500px;
+	margin-left:50%;
+}
+.img_info2{
+	height:500px;
+	width:500px;
+	margin-top:-30px;
+	margin-left:20%;
+	background-color: transparent;
+}
+.hr{
+	height:3px;
+	width:80px;
+	margin-top:-20px;
+	background-color:red;
+}
+.delivery{
+	height:250px;
+	width:250px;
+	background-color:black;
+	margin-left:250px;
+	margin-top:5px;
+}
+.free_shop{
+    height:250px;
+	width:250px;
+	background-color:black;	
+    margin-top:-250px;
+    margin-left:550px;
+}
+.best_quality{
+	 height:250px;
+	width:250px;
+	background-color:black;	
+    margin-top:-250px;
+    margin-left:850px;	
+}
+.last_img{
+	height:350px;
+	width:350px;
+	margin-left:150px;
+	margin-top:20px;
+}
+.text{
+	height:400px;
+	width:350px;
+	margin-left: 50%;
+	margin-top:-300px;
+
+}
+.last{
+	height:auto;
+	width:100%;
+	background-color:#baa4a2;
+	margin-top:10px;
+	margin-left: ;
+}
+.btn
+{
+	border-radius: 5px;
+	border:none;
+	background-color:red;
+	color:white;
+	font-size:20px;
+	font-weight: bolder;
+}
+.image{
+	height:60px;
+	width: 60px;
+	margin-top:15px;
+}
